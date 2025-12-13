@@ -1,1 +1,1 @@
-prompt("enter a number");
+console("enter a number");
