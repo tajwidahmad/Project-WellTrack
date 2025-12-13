@@ -1,1 +1,2 @@
-console("enter a number");
+// console("enter a number");
+console.log("hello again")
